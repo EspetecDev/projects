@@ -6,4 +6,4 @@ This is a series of projects to learn more of some programming langages, part of
 
 ### C/C++
 
-    * [Crafting Interpreters](c_cpp/crafting_interpreters/README.md)
+* [Crafting Interpreters](c_cpp/crafting_interpreters/README.md)
